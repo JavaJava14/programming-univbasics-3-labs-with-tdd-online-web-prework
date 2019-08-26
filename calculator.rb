@@ -1,6 +1,2 @@
 # Add your variables here
-def greeting
-  puts "RUN"
-end
-
-greeting
+first_number = 1
